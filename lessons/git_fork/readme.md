@@ -47,7 +47,7 @@ After you've edited the file, you need to _commit_ your changes to make them per
 
 ![commit](img/commit_file.png)
 
-You can repeat the edit and commit process as many times as you like. You don't have to be totally done with a file to commit. Commit incrementally!
+You can repeat the edit and commit process as many times as you like. You don't have to be totally done with a file to commit. Commit incrementally
 
 Here's your first chance to practice this:
 
